@@ -1,0 +1,6 @@
+{
+  "name": "EduPoverty",
+  "description": "SDG 1 digital poverty reduction and economic empowerment platform connecting communities in South Sudan with verified jobs, small business support, vocational training, agricultural markets, financial literacy, and social assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
